@@ -1,0 +1,19 @@
+{
+  "name": "check",
+  "version": "1.0.0",
+  "description": "checkbook.io payment scratchpad",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/applight/check.git"
+  },
+  "author": "Mattnew Vaughan <matt@thenshow.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/applight/check/issues"
+  },
+  "homepage": "https://github.com/applight/check#readme"
+}
